@@ -873,12 +873,12 @@
       "last_seen_at": null
     },
     "U110": {
-      "attempts": 0,
-      "correct": 0,
+      "attempts": 1,
+      "correct": 1,
       "wrong": 0,
-      "last_result": null,
-      "last_selected": null,
-      "last_seen_at": null
+      "last_result": "correct",
+      "last_selected": 3,
+      "last_seen_at": "2026-03-15T23:07:44"
     },
     "U111": {
       "attempts": 0,
@@ -2459,6 +2459,15 @@
       "is_correct": true,
       "mode": "solve",
       "answered_at": "2026-03-15T20:24:59"
+    },
+    {
+      "question_id": "U110",
+      "subject": "DS Level3 통합정리 Part 3",
+      "selected_answer": 3,
+      "correct_answer": 3,
+      "is_correct": true,
+      "mode": "solve",
+      "answered_at": "2026-03-15T23:07:44"
     }
   ],
   "subject_sessions": {
@@ -2632,7 +2641,7 @@
         "U154",
         "U155"
       ],
-      "current_index": 0,
+      "current_index": 5,
       "is_shuffled": false
     },
     "DS Level3 통합정리 Part 4": {
